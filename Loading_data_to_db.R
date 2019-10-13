@@ -4,8 +4,7 @@
 # Date: 25 Sept 2019                                                          #
 # --------------------------------------------------------------------------- #
 
-# In this script we connect to the MySQL database and load dataframes into
-# a previously created table
+# Comment with changes made to previous script to show on commit 
 
 
 # 0. load libraries ####
